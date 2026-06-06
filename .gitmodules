@@ -1,0 +1,114 @@
+[submodule "AIGODLIKE-COMFYUI-TRANSLATION"]
+	path = AIGODLIKE-COMFYUI-TRANSLATION
+	url = https://github.com/AIGODLIKE/AIGODLIKE-COMFYUI-TRANSLATION.git
+[submodule "ComfyUI_essentials"]
+	path = ComfyUI_essentials
+	url = https://github.com/cubiq/ComfyUI_essentials.git
+[submodule "ComfyUI_FizzNodes"]
+	path = ComfyUI_FizzNodes
+	url = https://github.com/FizzleDorf/ComfyUI_FizzNodes.git
+[submodule "ComfyUI_IPAdapter_plus"]
+	path = ComfyUI_IPAdapter_plus
+	url = https://github.com/cubiq/ComfyUI_IPAdapter_plus.git
+[submodule "ComfyUI_Mexx_Styler"]
+	path = ComfyUI_Mexx_Styler
+	url = https://github.com/SoftMeng/ComfyUI_Mexx_Styler.git
+[submodule "ComfyUI_UltimateSDUpscale"]
+	path = ComfyUI_UltimateSDUpscale
+	url = https://github.com/ssitu/ComfyUI_UltimateSDUpscale.git
+[submodule "ComfyUI-AnimateDiff-Evolved"]
+	path = ComfyUI-AnimateDiff-Evolved
+	url = https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved.git
+[submodule "ComfyUI-CogVideoXWrapper"]
+	path = ComfyUI-CogVideoXWrapper
+	url = https://github.com/kijai/ComfyUI-CogVideoXWrapper.git
+[submodule "ComfyUI-Custom-Scripts"]
+	path = ComfyUI-Custom-Scripts
+	url = https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
+[submodule "ComfyUI-DD-Nodes"]
+	path = ComfyUI-DD-Nodes
+	url = https://github.com/Dontdrunk/ComfyUI-DD-Nodes.git
+[submodule "ComfyUI-DepthAnythingV3"]
+	path = ComfyUI-DepthAnythingV3
+	url = https://github.com/PozzettiAndrea/ComfyUI-DepthAnythingV3.git
+[submodule "ComfyUI-Easy-Use"]
+	path = ComfyUI-Easy-Use
+	url = https://github.com/yolain/ComfyUI-Easy-Use.git
+[submodule "ComfyUI-Fluxtapoz"]
+	path = ComfyUI-Fluxtapoz
+	url = https://github.com/logtd/ComfyUI-Fluxtapoz.git
+[submodule "ComfyUI-GeometryPack"]
+	path = ComfyUI-GeometryPack
+	url = https://github.com/PozzettiAndrea/ComfyUI-GeometryPack.git
+[submodule "ComfyUI-GGUF"]
+	path = ComfyUI-GGUF
+	url = https://github.com/city96/ComfyUI-GGUF.git
+[submodule "ComfyUI-Impact-Pack"]
+	path = ComfyUI-Impact-Pack
+	url = https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
+[submodule "ComfyUI-Impact-Subpack"]
+	path = ComfyUI-Impact-Subpack
+	url = https://github.com/ltdrdata/ComfyUI-Impact-Subpack.git
+[submodule "ComfyUI-Inspire-Pack"]
+	path = ComfyUI-Inspire-Pack
+	url = https://github.com/ltdrdata/ComfyUI-Inspire-Pack.git
+[submodule "ComfyUI-IPAdapter-Flux"]
+	path = ComfyUI-IPAdapter-Flux
+	url = https://github.com/Shakker-Labs/ComfyUI-IPAdapter-Flux.git
+[submodule "ComfyUI-KJNodes"]
+	path = ComfyUI-KJNodes
+	url = https://github.com/kijai/ComfyUI-KJNodes.git
+[submodule "ComfyUI-tbox"]
+	path = ComfyUI-tbox
+	url = https://github.com/ai-shizuka/ComfyUI-tbox.git
+[submodule "ComfyUI-TCD"]
+	path = ComfyUI-TCD
+	url = https://github.com/JettHu/ComfyUI-TCD.git
+[submodule "ComfyUI-ToSVG"]
+	path = ComfyUI-ToSVG
+	url = https://github.com/Yanick112/ComfyUI-ToSVG.git
+[submodule "comfyui-umeairt-toolkit"]
+	path = comfyui-umeairt-toolkit
+	url = https://gitlab.com/UmeAiRT-Studio/comfyui-umeairt-toolkit.git
+[submodule "image-resize-comfyui"]
+	path = image-resize-comfyui
+	url = https://github.com/brunokk/image-resize-comfyui.git
+[submodule "rgthree-comfy"]
+	path = rgthree-comfy
+	url = https://github.com/rgthree/rgthree-comfy.git
+[submodule "ComfyUI-IC-Light"]
+	path = ComfyUI-IC-Light
+	url = https://github.com/kijai/ComfyUI-IC-Light.git
+[submodule "ComfyUI-Manager"]
+	path = ComfyUI-Manager
+	url = https://github.com/ltdrdata/ComfyUI-Manager.git
+[submodule "was-node-suite-comfyui"]
+	path = was-node-suite-comfyui
+	url = https://github.com/ltdrdata/was-node-suite-comfyui.git
+[submodule "a-person-mask-generator"]
+	path = a-person-mask-generator
+	url = https://github.com/djbielejeski/a-person-mask-generator.git
+[submodule "ComfyUI_Comfyroll_CustomNodes"]
+	path = ComfyUI_Comfyroll_CustomNodes
+	url = https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes.git
+[submodule "ComfyUI-Advanced-ControlNet"]
+	path = ComfyUI-Advanced-ControlNet
+	url = https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet.git
+[submodule "ComfyUI-Frame-Interpolation"]
+	path = ComfyUI-Frame-Interpolation
+	url = https://github.com/Fannovel16/ComfyUI-Frame-Interpolation.git
+[submodule "ComfyUI-SAM2"]
+	path = ComfyUI-SAM2
+	url = https://github.com/neverbiasu/ComfyUI-SAM2.git
+[submodule "comfyui-various"]
+	path = comfyui-various
+	url = https://github.com/jamesWalker55/comfyui-various.git
+[submodule "ComfyUI-VideoHelperSuite"]
+	path = ComfyUI-VideoHelperSuite
+	url = https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git
+[submodule "efficiency-nodes-comfyui"]
+	path = efficiency-nodes-comfyui
+	url = https://github.com/jags111/efficiency-nodes-comfyui.git
+[submodule "Image-Vector-for-ComfyUI"]
+	path = Image-Vector-for-ComfyUI
+	url = https://github.com/AARG-FAN/Image-Vector-for-ComfyUI.git
