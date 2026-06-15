@@ -112,3 +112,6 @@
 [submodule "Image-Vector-for-ComfyUI"]
 	path = Image-Vector-for-ComfyUI
 	url = https://github.com/AARG-FAN/Image-Vector-for-ComfyUI.git
+[submodule "ComfyUI-Bernini"]
+	path = ComfyUI-Bernini
+	url = https://github.com/AIMixer/ComfyUI-Bernini.git
