@@ -1,6 +1,3 @@
-[submodule "AIGODLIKE-COMFYUI-TRANSLATION"]
-	path = AIGODLIKE-COMFYUI-TRANSLATION
-	url = https://github.com/AIGODLIKE/AIGODLIKE-COMFYUI-TRANSLATION.git
 [submodule "ComfyUI_essentials"]
 	path = ComfyUI_essentials
 	url = https://github.com/cubiq/ComfyUI_essentials.git
@@ -115,3 +112,6 @@
 [submodule "ComfyUI-Bernini"]
 	path = ComfyUI-Bernini
 	url = https://github.com/AIMixer/ComfyUI-Bernini.git
+[submodule "ComfyUI-Chinese-Translation"]
+	path = ComfyUI-Chinese-Translation
+	url = https://github.com/a63976659/ComfyUI-Chinese-Translation.git

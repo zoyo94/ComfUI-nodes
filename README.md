@@ -34,6 +34,10 @@ git commit -m "update submodules"
 ```bash
 git -C ComfyUI-Manager pull
 ```
+### 拉取远端最新不想和仓库的旧版本一样要最新的
+```bash
+git submodule foreach "git fetch origin; git checkout origin/HEAD" && git submodule sync
+```
 
 ### 增删节点
 
