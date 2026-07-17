@@ -109,9 +109,9 @@
 [submodule "Image-Vector-for-ComfyUI"]
 	path = Image-Vector-for-ComfyUI
 	url = https://github.com/AARG-FAN/Image-Vector-for-ComfyUI.git
-[submodule "ComfyUI-Bernini"]
-	path = ComfyUI-Bernini
-	url = https://github.com/AIMixer/ComfyUI-Bernini.git
 [submodule "ComfyUI-Chinese-Translation"]
 	path = ComfyUI-Chinese-Translation
 	url = https://github.com/a63976659/ComfyUI-Chinese-Translation.git
+[submodule "ComfyUI_Bernini_Director"]
+	path = ComfyUI_Bernini_Director
+	url = https://github.com/AIMixer/ComfyUI_Bernini_Director.git
