@@ -21,6 +21,16 @@ git submodule update --init --recursive --depth 1
 ```bash
 git submodule update --remote --merge
 ```
+# 遍历所有子模块：拉取远程，强制重置到origin/main，丢弃全部本地改动
+git submodule foreach 'git fetch origin; git reset --hard origin/main'
+
+# 再执行更新，此时没有本地修改，不会报错
+git submodule update --remote --merge
+
+# 把更新后的子模块commit记录保存到父仓库
+git add .
+git commit -m "update all comfyui submodules"
+
 
 更新完成后，把指针变化提交进父仓库：
 
