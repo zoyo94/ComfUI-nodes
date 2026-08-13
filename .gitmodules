@@ -115,3 +115,6 @@
 [submodule "ComfyUI_Bernini_Director"]
 	path = ComfyUI_Bernini_Director
 	url = https://github.com/AIMixer/ComfyUI_Bernini_Director.git
+[submodule "ComfyUI_MiniMaxH3_Director"]
+	path = ComfyUI_MiniMaxH3_Director
+	url = https://github.com/AIMixer/ComfyUI_MiniMaxH3_Director
